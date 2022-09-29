@@ -1,0 +1,9 @@
+C:\Users\oli_4\Desktop\Video_RPG\.mono\temp\bin\Debug\Video_RPG.dll
+C:\Users\oli_4\Desktop\Video_RPG\.mono\temp\bin\Debug\Video_RPG.pdb
+C:\Users\oli_4\Desktop\Video_RPG\.mono\temp\obj\Debug\Video_RPG.csproj.AssemblyReference.cache
+C:\Users\oli_4\Desktop\Video_RPG\.mono\temp\obj\Debug\Video_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oli_4\Desktop\Video_RPG\.mono\temp\obj\Debug\Video_RPG.AssemblyInfoInputs.cache
+C:\Users\oli_4\Desktop\Video_RPG\.mono\temp\obj\Debug\Video_RPG.AssemblyInfo.cs
+C:\Users\oli_4\Desktop\Video_RPG\.mono\temp\obj\Debug\Video_RPG.csproj.CoreCompileInputs.cache
+C:\Users\oli_4\Desktop\Video_RPG\.mono\temp\obj\Debug\Video_RPG.dll
+C:\Users\oli_4\Desktop\Video_RPG\.mono\temp\obj\Debug\Video_RPG.pdb
